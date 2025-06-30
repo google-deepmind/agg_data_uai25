@@ -1,0 +1,7 @@
+tensorflow
+xmanager
+numpy
+scikit-learn
+scipy
+absl-py
+tensorflow-probability
